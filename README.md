@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samandar003
-- 👀 I’m interested in ...Artificial Intelligence
+- 👀 I’m interested in ...Technology
 - 🌱 I’m currently learning ...Python Backend
 - 💞️ I’m looking to collaborate on ...a prestigious company
 - 📫 How to reach me ...+998 94 267 7005, Telegram Samandaro003, Email samandar200527@gmail.com, https://www.codewars.com/users/SamandarProgrammer
