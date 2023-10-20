@@ -1,3 +1,7 @@
+💻 Tech Stack:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samandar003)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @Samandar003
 - 👀 I’m interested in ...Technology
 - 🌱 I’m currently studying Computer Science in Poland
